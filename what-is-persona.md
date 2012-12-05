@@ -23,7 +23,7 @@ Persona is different:
 * If your email provider supports Persona, you can sign into any Persona-enabled website without needing any new passwords at all.
 * If your email provider doesn't support Persona, you'll need one new password for all sites.
 
-Either way, you never send a password to the websites you're signing into. You sign into your email provider, or the Persona service, which then sends your browser a message that it can use to prove to the website that you logged into Persona successfully.
+Either way, you never send a password to the websites you're signing into. You sign into your email provider, or the Persona service, which then sends your browser a message that it can use to prove to the website that you signed into Persona successfully.
 
 So with Persona you get the best of both worlds: a single password for all websites, but the password is never actually sent to any of the websites. (Of course, you still have to trust that the Persona server itself won't get hacked.)
 
