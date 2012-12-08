@@ -8,9 +8,9 @@ Here's https://www.voo.st/:
 
 <!-- screenshot -->
 
-You'll see a popup dialog with the Persona branding, that asks you for an email address to use. You can use any email address that you own. The address you choose will be used as your identity on this particular website.
+When you click the button you'll see a popup dialog with the Persona branding, that asks you for an email address to use. You can use any email address that you own. The address you choose will be used as your identity on this particular website.
 
-What happens next depends on whether your email provider supports Persona or not. Most email providers don't support it yet, but we're working on adding support for Yahoo! Mail, Gmail and Outlook/Hotmail in the next few months.
+What happens next depends on whether your email provider supports Persona or not. Most email providers don't support it yet, but we're working on adding support for Yahoo! Mail, Gmail and Outlook/Hotmail in the next few months. Note that you don't have to find out whether your email provider supports Persona or not: your browser will work it out based on the email address you choose.
 
 ## If your email provider doesn't support Persona ##
 
@@ -28,3 +28,11 @@ If your email provider does support Persona, it's even simpler. Your browser wil
 
 * If you're already signed into your email (for instance, if you stay signed into Gmail most of the time, then you probably are) then your browser signs you right into the website, without asking for any password at all.
 * If you're not signed into your email, then your browser will ask you to sign in, then sign you into the original website.
+
+## Remembering your Persona login ##
+
+When you sign in using Persona, you may be presented with a dialog like this:
+
+<!-- screenshot -->
+
+If you click "One Month", then your browser will store your Persona credentials for a month, enabling you to sign into any Persona-enabled site without having to enter a password.
