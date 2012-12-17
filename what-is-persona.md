@@ -1,10 +1,10 @@
 # What is Persona? #
 
-Persona is a new way to sign into websites. With Persona, you:
+Persona is a new way to sign into websites. With Persona, you can:
 
-* can sign into websites using your email address and a password
-* can use a single password to sign into any website that supports Persona
-* can use multiple email addresses, and choose which address you want to use with each website
+* sign into websites using your email address and a password
+* use a single password to sign into any website that supports Persona
+* use multiple email addresses, and choose which address you want to use with each website
 
 Persona has been designed from the ground up to protect your privacy and put you in control of how your data is shared. It works on all major desktop, smartphone, and tablet browsers.
 
@@ -12,7 +12,7 @@ Persona has been designed from the ground up to protect your privacy and put you
 
 With Persona your username is your email address.
 
-You can use any email address, as long as it's one you own (you have to prove you own it). You can use more than one email address: so you could use your work email address to sign into work-related accounts and your personal address to sign into personal accounts.
+You can use any email address, as long as it's one you own - you have to prove you own it. You can use more than one email address: so you could use your work email address to sign into work-related accounts and your personal address to sign into personal accounts.
 
 ## No new passwords ##
 
@@ -37,4 +37,4 @@ We've designed Persona from the start so that's not needed. At the moment, Mozil
 
 ## Use Persona with any modern browser ##
 
-Persona's not just for Firefox users. You can use Persona on the desktop with any modern version of Internet Explorer, Firefox, Chrome, Safari, and Opera. You can use it with the Mobile Safari browser on the iPhone and iPad. You can use it on Android phones with the built-in Android browser, Firefox, and Chrome.
+Persona's not just for Firefox users. You can use Persona on the desktop with any modern version of Internet Explorer, Firefox, Chrome, Safari, and Opera. You can use it with the Mobile Safari browser on the iPhone and iPad. You can use it on Android phones with the built-in Android browser, Firefox and Chrome.

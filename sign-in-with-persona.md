@@ -2,7 +2,7 @@
 
 One thing that's different about Persona is that if your email provider supports Persona, you don't have to create a new account - you just use your existing email address. That is, you don't have to "sign up" before "signing in".
 
-So even if you've never used Persona before, you'll get started by clicking a "Sign In" button on a website that supports Persona. The site might use the Persona branding (see https://developer.mozilla.org/en-US/docs/persona/branding), and say something like "Sign in with your email" or "Sign in with Persona". But sites can use different branding or wording if they choose. Here's https://developer.mozilla.org/en-US/:
+So even if you've never used Persona before, you'll get started by clicking a "Sign In" button on a website that supports Persona. The site might use the [Persona branding](https://developer.mozilla.org/en-US/docs/persona/branding), and say something like "Sign in with your email" or "Sign in with Persona". But sites can use different branding or wording if they choose. Here's https://developer.mozilla.org/en-US/:
 
 **[-- screenshot --]**
 
