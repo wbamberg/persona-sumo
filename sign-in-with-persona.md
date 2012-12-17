@@ -37,4 +37,8 @@ When you sign in using Persona, you may be presented with a dialog like this:
 
 [-- screenshot --]
 
-If you click "One Month", then your browser will store your Persona credentials for a month, enabling you to sign into any Persona-enabled site without having to enter a password. On a computer you own, If you're mostly signing into sites from computers you own, that only people you trust can access, then 
+If you click "One month", then your browser will store your Persona credentials for a month, enabling you to sign into any Persona-enabled site without having to enter a password. Of course, that means anyone else sitting at your computer can sign in as you, so only choose this option if you're the only person using the computer, or you trust anyone else who might use it.
+
+Otherwise, select "This session only". If you do this, your browser will store your Persona credentials for about an hour.
+
+If you want to make sure the website asks for a password the next time someone logs in from this browser, see the guide to [signing out with Persona].
