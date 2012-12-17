@@ -4,11 +4,11 @@ One thing that's different about Persona is that if your email provider supports
 
 So even if you've never used Persona before, you'll get started by clicking a "Sign In" button on a website that supports Persona. The site might use the Persona branding (see https://developer.mozilla.org/en-US/docs/persona/branding), and say something like "Sign in with your email" or "Sign in with Persona". But sites can use different branding or wording if they choose. Here's https://developer.mozilla.org/en-US/:
 
-[-- screenshot --]
+**[-- screenshot --]**
 
 Here's https://www.voo.st/:
 
-[-- screenshot --]
+**[-- screenshot --]**
 
 When you click the button you'll see a popup dialog with the Persona branding, that asks you for an email address to use. You can use any email address that you own. The address you choose will be used as your identity on this particular website.
 
@@ -35,7 +35,7 @@ If your email provider does support Persona, it's even simpler. Your browser wil
 
 When you sign in using Persona, you may be presented with a dialog like this:
 
-[-- screenshot --]
+**[-- screenshot --]**
 
 If you click "One month", then your browser will store your Persona credentials for a month, enabling you to sign into any Persona-enabled site without having to enter a password. Of course, that means anyone else sitting at your computer can sign in as you, so only choose this option if you're the only person using the computer, or you trust anyone else who might use it.
 
