@@ -2,11 +2,11 @@
 
 Persona is a new way to sign into websites. With Persona, you:
 
-* sign into websites using your email address and a password
-* use a single password to sign into any website that supports Persona
+* can sign into websites using your email address and a password
+* can use a single password to sign into any website that supports Persona
 * can use multiple email addresses, and choose which address you want to use with each website
 
-Persona's been designed from the ground up to protect your privacy and put you in control of how your data is shared. It works on all major desktop, smartphone, and tablet browsers.
+Persona has been designed from the ground up to protect your privacy and put you in control of how your data is shared. It works on all major desktop, smartphone, and tablet browsers.
 
 ## Sign in with your email address ##
 
