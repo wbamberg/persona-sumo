@@ -23,9 +23,9 @@ Persona is different:
 * If your email provider supports Persona, you can sign into any Persona-enabled website without needing any new passwords at all.
 * If your email provider doesn't support Persona, you'll need one new password for all sites.
 
-Either way, you never send a password to the websites you're signing into. You sign into your email provider or the Persona service, which then sends your browser a message that it can use to prove to the website that you signed into Persona successfully.
+Either way, you never send a password to the websites you're signing into. You sign into your email provider or the Persona service instead, and then you can sign into websites without giving them a password.
 
-So with Persona you get the best of both worlds: a single password for all websites, but the password is never actually sent to any of the websites. (Of course, you still have to trust that the Persona server itself won't get hacked.)
+So with Persona you get the best of both worlds: a single password for all websites, but the websites never see your password, so it can't be stolen if they are hacked. (Of course, you still have to trust that the Persona server itself won't get hacked.)
 
 ## Persona takes privacy seriously ##
 
@@ -37,4 +37,4 @@ We've designed Persona from the start so that's not needed. At the moment, Mozil
 
 ## Use Persona with any modern browser ##
 
-Persona's not just for Firefox users. You can use Persona on the desktop with any modern version of Internet Explorer, Firefox, Chrome, Safari, and Opera. You can use it with the Mobile Safari browser on the iPhone and iPad. You can use it on Android phones with the built-in Android browser, Firefox and Chrome.
+Persona's not just for Firefox users. You can use Persona on the desktop with any modern version of Internet Explorer, Firefox, Chrome, Safari, and Opera. You can use it with the Mobile Safari browser on the iPhone and iPad. You can use it on Android phones with the built-in Android browser, Firefox, and Chrome.

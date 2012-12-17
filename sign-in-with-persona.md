@@ -16,7 +16,7 @@ What happens next depends on whether your email provider supports Persona or not
 
 ## If your email provider doesn't support Persona ##
 
-If your email provider does not support Persona (and most don't, yet), and you've never used Persona before, then you'll now be asked to think of a new password. Once you've chosen a password, you'll be asked to check for an email from Mozilla Persona, and click a link in it to confirm that you own the email address you used. You'll then be returned to the original website and signed in.
+If your email provider does not support Persona (and most don't, yet), and you've never used Persona before, then you'll now be asked to think of a new password. Once you've chosen a password, you'll be asked to check for an email from Mozilla Persona, and click a link in it to confirm that you own the email address you used. You'll then be returned to the original website and signed in. If you're signing into the website for the first time, the website will now ask you to enter anything else it needs to complete your registration, such as your address or age.
 
 Now you have an account with the Mozilla Persona service. Mozilla runs this service specifically for people whose email providers don't yet support Persona. You can add as many email addresses to it as you want, from any email provider - so this is the only password you'll ever need. You can manage your account by visiting https://login.persona.org/.
 
@@ -28,8 +28,10 @@ Your browser caches this credential for a limited time, so you don't have to re-
 
 If your email provider does support Persona, it's even simpler. Your browser will ask the email provider to confirm that you own the email address:
 
-* If you're already signed into your email (for instance, if you stay signed into Gmail most of the time, then you probably are) then your browser signs you right into the website, without asking for any password at all.
+* If you're already signed into your email (for instance, if you stay signed into Gmail most of the time, then you probably are) then your browser signs you into the website without asking for any password at all.
 * If you're not signed into your email, then your browser will ask you to sign in, then sign you into the original website.
+
+Again, if you're signing into the website for the first time, the website will now ask you to enter anything else it needs to complete your registration, such as your address or age.
 
 ## Remembering your Persona login ##
 
