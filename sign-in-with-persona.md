@@ -43,4 +43,4 @@ If you click "One month", then your browser will store your Persona credentials 
 
 Otherwise, select "This session only". If you do this, your browser will store your Persona credentials for about an hour.
 
-If you want to make sure the website asks for a password the next time someone logs in from this browser, see the guide to [signing out with Persona].
+If you want to make sure the website asks for a password the next time someone logs in from this browser, see the guide to [signing out with Persona](sign-out-with-persona.md).
