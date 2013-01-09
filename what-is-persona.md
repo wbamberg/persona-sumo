@@ -25,16 +25,16 @@ Persona is different:
 
 Either way, you never send a password to the websites you're signing into. You sign into your email provider or the Persona service instead, and then you can sign into websites without giving them a password.
 
-So with Persona you get the best of both worlds: a single password for all websites, but the websites never see your password, so it can't be stolen if they are hacked. (Of course, you still have to trust that the Persona server itself won't get hacked.)
+With Persona you get the best of both worlds: a single password for all websites, but because the websites never see your password, it can't be stolen if a site you sign into gets hacked.
 
 ## Persona takes privacy seriously ##
 
 Many of our interactions on the web involve sharing and exchanging personal data. As we do so, we enable the companies that provide web services to collect, correlate, and sell information about us in ways we can't control.
 
-Mozilla wants to give the user control over the data they share, and an identity system - Persona - is the first building block. There are other identity systems, such as Facebook Connect, in which you can sign into multiple sites with a single password. But with these systems the website has to "phone home" to the provider - Facebook, for example - which is then able to compile information about your browsing habits for its own purposes.
+Mozilla wants to give the user control over the data they share, and an identity system - Persona - is the first building block. There are other identity systems, such as Facebook Connect, in which you can sign into multiple sites with a single password, but they rarely respect your privacy. With those systems, the website has to "phone home" to the provider - Facebook, for example - which is then able to compile information about your browsing habits for its own purposes.
 
-We've designed Persona from the start so that's not needed. At the moment, Mozilla's Persona service does get to see which websites you sign into, but we're working on removing this requirement, and in future versions of Persona nobody will be able to track which websites you visit.
+We've designed Persona from the start so that's not necessary, but this particular privacy protection requires special code to be built into browsers. At the moment, few browsers have this code, which means that Mozilla's Persona service *is* able to see which websites you sign into. However, Firefox, Firefox for Android, and FirefoxOS will *all* eventually have this code built in.
 
-## Use Persona with any modern browser ##
+## Not just Firefox ##
 
-Persona's not just for Firefox users. You can use Persona on the desktop with any modern version of Internet Explorer, Firefox, Chrome, Safari, and Opera. You can use it with the Mobile Safari browser on the iPhone and iPad. You can use it on Android phones with the built-in Android browser, Firefox and Chrome.
+Persona works where you do, it's not just for Firefox users. You can use Persona on the desktop with Internet Explorer, Firefox, Chrome, Safari, and Opera; on iPhones and iPads with the Mobile Safari; and on Android phones and tablets with Firefox and Chrome.
